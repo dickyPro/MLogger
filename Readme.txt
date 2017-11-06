@@ -6,3 +6,6 @@ log是标准的单利模式
 
 IOStreamManager单利模式设计，管理ostream流，添加按配置设置的流对象
 
+ThreadLoggerStream线程安全队列
+DirectLoggerStream不涉及到线程安全
+
